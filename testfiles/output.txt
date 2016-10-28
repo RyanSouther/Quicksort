@@ -1,0 +1,5 @@
+Sort on testfiles/testfilecopy.txt
+Cache Hits: 46709
+Disk Reads: 3262
+Disk Writes: 1172
+Time is 221

@@ -1,0 +1,13 @@
+Sort on 10
+Cache Hits: 0
+Disk Reads: 0
+Disk Writes: 0
+Time is 0Sort on 10
+Cache Hits: 0
+Disk Reads: 0
+Disk Writes: 0
+Time is 0Sort on 10
+Cache Hits: 0
+Disk Reads: 0
+Disk Writes: 0
+Time is 1
